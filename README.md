@@ -1,2 +1,5 @@
-# onboarding
-This is for onboarding to the tech team. It will help our software and other relevant documents to start contributing from day 1. 
+# Backend Home
+This is home repository for the information and management of the backend team. Information in this repo includes but is not limited to 
+* Backend Wiki
+* Onboarding to the tech team
+* Project Management Boards, etc. 
